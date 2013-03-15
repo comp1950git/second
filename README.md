@@ -1,4 +1,3 @@
-second
-======
+# My Second Repo!
 
-Second Repo
+This is my second repo.
